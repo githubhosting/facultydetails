@@ -117,4 +117,19 @@ margin-left: 8px;
 	text-transform:capitalize;
 	transition:.2s easy-in-out;
   }
+
+.section-title {
+	padding-bottom: 40px;
+    padding-top: 20px;
+}
+.main-team-subheading {
+	font-size: 14px;
+	font-weight: 500;
+	padding: 1rem;
+	line-height: 1px;
+	margin: 0 0 5px 0;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: #aaaaaa;
+}
  
